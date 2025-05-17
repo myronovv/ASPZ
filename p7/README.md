@@ -3,6 +3,7 @@
 Задача 1
  Використайте popen(), щоб передати вивід команди rwho (команда UNIX) до more (команда UNIX) у програмі на C.
 Я використав who замість rwho
+
 ![image](https://github.com/user-attachments/assets/7179e4a9-9f91-4bdb-b819-4505516d9e26)
 
 
